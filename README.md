@@ -1,5 +1,7 @@
 # Case-Studies
 
+Case Study 1: Breast Cancer
+
 Predicting if the cancer diagnosis is benign or malignant based on several observations/features
 30 features are used, examples:
 
